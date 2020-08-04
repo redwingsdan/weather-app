@@ -1,0 +1,16 @@
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherAppiOS.exe
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherAppiOS.pdb
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherApp.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherApp.pdb
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherApp.dll.mdb
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\Newtonsoft.Json.xml
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherApp.iOS.csprojResolveAssemblyReference.cache
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherAppiOS.exe
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherAppiOS.pdb
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\obj\iPhone\Debug\WeatherAppiOS.exe.mdb
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp.iOS\bin\iPhone\Debug\WeatherAppiOS.exe.mdb

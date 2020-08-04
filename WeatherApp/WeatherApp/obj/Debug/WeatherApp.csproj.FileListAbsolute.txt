@@ -1,0 +1,13 @@
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll.config
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.App.config
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csprojResolveAssemblyReference.cache
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.dll
+C:\Users\dpeterson\Documents\Visual Studio 2015\Projects\WeatherApp\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
